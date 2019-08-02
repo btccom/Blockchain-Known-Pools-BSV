@@ -391,6 +391,22 @@
         "Tencent": {
             "name" : "Tencent",
             "link" : ""
+        },
+        "/poolin.com/" : {
+            "name" : "Poolin",
+            "link" : "https://www.poolin.com/"
+        },
+        "[BSV]" : {
+            "name" : "BSV",
+            "link" : ""
+        }
+        "hsao21GbiKd" : {
+            "name" : "hsao21GbiKd",
+            "link" : ""
+        },
+        "PDtma" : {
+            "name" : "PDtma",
+            "link" : ""
         }
     },
     "payout_addresses" : {
