@@ -407,7 +407,11 @@
         "PDtma" : {
             "name" : "PDtma",
             "link" : ""
-        }
+        },
+        "/sigmapool.com/" : {
+            "name" : "Sigmapool",
+            "link" : "https://sigmapool.com/"
+        },
     },
     "payout_addresses" : {
         "1CjPR7Z5ZSyWk6WtXvSFgkptmpoi4UM9BC" : {
