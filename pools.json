@@ -407,6 +407,10 @@
         "PDtma" : {
             "name" : "PDtma",
             "link" : ""
+        },
+        "/SpiderPool/": {
+            "name": "SpiderPool",
+            "link": "https://www.spiderpool.com/"
         }
     },
     "payout_addresses" : {
@@ -733,6 +737,10 @@
         "1GsWUdNT6AX7KkWXWbb8g5T1Si1ZPQAwjF" : {
             "name" : "Smiling Face",
             "link" : ""
+        },
+        "1J3So52JZ4Dw25YBQZEHUspi5k4ryhBSkR" : {
+            "name" : "SpiderPool",
+            "link" : "https://www.spiderpool.com/"
         }
     }
 }
